@@ -134,7 +134,6 @@ header {
   -ms-align-items: center;
   align-items: center;
   justify-content: center;
-
 }
 .menu a {
     text-decoration: none;
@@ -931,7 +930,8 @@ footer .container{
 .formsArea form:nth-child(2) button{
   width: 118px;
 }
-.formsArea form:nth-child(2) p{
+
+.formsArea form:nth-child(2) p {
   margin-top: 28px;
   margin-bottom: 24px;
   font-size: 14px;
